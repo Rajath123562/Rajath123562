@@ -10,6 +10,8 @@ I’m a computer science engineering student in Mysuru. I build real-time multip
 
 A multiplayer drawing and guessing game. Players share a canvas over WebSockets, and each room keeps its state in a Cloudflare Durable Object backed by SQLite. To see it in action, open the same room in two browser windows and draw in one. The repository documents the two-browser Playwright tests.
 
+[![DOODL gameplay showing a shared drawing canvas](https://raw.githubusercontent.com/Rajath123562/doodl/main/docs/assets/doodl-drawing-match.png)](https://doodl.rajath-raj2569.workers.dev)
+
 ### [ChaosHarness](https://github.com/Rajath123562/ChaosHarness) · Python, pytest
 
 A tool for testing how AI workflows respond to failures and replaying the results offline. One replay bug appeared on Ubuntu because an image could be encoded differently from the recording. Saving the original image bytes made the replay reproducible across Windows and Linux. [Read the fix](https://github.com/Rajath123562/ChaosHarness/commit/bd60e3d9b4298c0e2614e11a5f57ec39d3a248c7) · [See the four CI jobs](https://github.com/Rajath123562/ChaosHarness/actions/runs/45581993599)
