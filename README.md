@@ -5,8 +5,7 @@
 ### ⚡ Systems Programmer & Full-Stack AI Engineer
 
 [![GitHub Followers](https://img.shields.io/github/followers/Rajath123562?style=for-the-badge&logo=github&labelColor=161b22&color=238636)](https://github.com/Rajath123562)
-[![Profile Views](https://komarev.com/ghpvc/?username=Rajath123562&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Rajath123562)
-[![Website](https://img.shields.io/badge/Live_Showcases-doodl.workers.dev-00f2fe?style=for-the-badge&logo=cloudflare&logoColor=white)](https://doodl.rajath-raj2569.workers.dev)
+[![Website](https://img.shields.io/badge/Live_Showcases-doodl.rajath--raj2569.workers.dev-00f2fe?style=for-the-badge&logo=cloudflare&logoColor=white)](https://doodl.rajath-raj2569.workers.dev)
 
 <br/>
 
@@ -64,7 +63,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/Rajath123562/ChaosHarness"><img src="https://img.shields.io/badge/Evaluation-Deterministic_Oracles-blueviolet?style=flat-square" alt="Eval"/></a>
-        <a href="https://github.com/Rajath123562/ChaosHarness"><img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+        <a href="https://github.com/Rajath123562/ChaosHarness"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
       </p>
       <ul>
         <li><b>Fault Injection:</b> 9 real-world anomaly vectors with LoopWatcher retry budget</li>
@@ -148,7 +147,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajath123562&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajath's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath123562&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath123562&exclude_repo=AeroDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
 <br/>
